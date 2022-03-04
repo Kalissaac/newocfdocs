@@ -1,4 +1,6 @@
-[[!meta title="Backups"]]
+---
+title: "Backups"
+---
 ## Backup Storage
 
 We currently store our on-site backups across a couple drives on `hal`:

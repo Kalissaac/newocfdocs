@@ -1,4 +1,6 @@
-[[!meta title="Granting staff privileges"]]
+---
+title: "Granting staff privileges"
+---
 
 ## Adding people to groups
 

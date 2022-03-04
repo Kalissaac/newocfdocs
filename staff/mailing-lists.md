@@ -1,4 +1,6 @@
-[[!meta title="Staff mailing lists"]]
+---
+title: "Staff mailing lists"
+---
 
 ## Mailing lists
 

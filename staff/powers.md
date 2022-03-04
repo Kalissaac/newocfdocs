@@ -1,4 +1,6 @@
-[[!meta title="Staff privileges"]]
+---
+title: "Staff privileges"
+---
 
 
 OCF staff are members of the OCF who contribute their time as volunteers, and

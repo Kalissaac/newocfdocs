@@ -1,4 +1,6 @@
-[[!meta title="Web application hosting"]]
+---
+title: "Web application hosting"
+---
 
 **Note: This document only applies to student groups with virtual hosts who
 have applied for apphosting. For normal user accounts or for groups without

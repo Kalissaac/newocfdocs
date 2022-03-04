@@ -1,4 +1,6 @@
-[[!meta title="SSL certificates"]]
+---
+title: "SSL certificates"
+---
 
 We are able to obtain signed certificates at no charge through [Let's
 Encrypt](https://letsencrypt.org/).

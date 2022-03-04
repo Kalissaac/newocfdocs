@@ -1,4 +1,6 @@
-[[!meta title="On your staff VM"]]
+---
+title: "On your staff VM"
+---
 
 ## Essentials
 

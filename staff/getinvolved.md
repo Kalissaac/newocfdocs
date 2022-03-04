@@ -1,4 +1,6 @@
-[[!meta title="Getting Involved"]]
+---
+title: "Getting Involved"
+---
 
 ## How can I get involved in the OCF?
 

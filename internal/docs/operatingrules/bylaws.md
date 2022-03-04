@@ -1,4 +1,6 @@
-[[!meta title="Bylaws"]]
+---
+title: "Bylaws"
+---
 
 
 These are the official **Bylaws of the Open Computing Facility**, as last

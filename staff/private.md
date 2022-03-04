@@ -1,4 +1,6 @@
-[[!meta title="Additional documentation"]]
+---
+title: "Additional documentation"
+---
 
 Additional documentation not published publicly can be found at
 `~staff/privdocs` on supernova.

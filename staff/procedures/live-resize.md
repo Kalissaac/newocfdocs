@@ -1,4 +1,6 @@
-[[!meta title="Live disk resizing"]]
+---
+title: "Live disk resizing"
+---
 
 ## Assumptions
 1. You are resizing the disk to be a **larger** size than it currently is. If

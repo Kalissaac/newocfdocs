@@ -1,4 +1,6 @@
-[[!meta title="Test accounts"]]
+---
+title: "Test accounts"
+---
 
 There are a couple official test accounts:
 

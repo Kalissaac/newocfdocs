@@ -1,4 +1,6 @@
-[[!meta title="Mail virtual hosting for student groups"]]
+---
+title: "Mail virtual hosting for student groups"
+---
 
 
 Our regular virtual hosting gives your group a website at

@@ -1,4 +1,6 @@
-[[!meta title="Slurm"]]
+---
+title: "Slurm"
+---
 
 ## Slurm
 

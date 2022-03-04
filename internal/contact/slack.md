@@ -1,4 +1,6 @@
-[[!meta title="Slack"]]
+---
+title: "Slack"
+---
 
 
 We also offer IRC as a chat service. If that is what you were looking for, head

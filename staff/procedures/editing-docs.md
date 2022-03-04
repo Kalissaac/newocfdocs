@@ -1,4 +1,6 @@
-[[!meta title="Editing docs"]]
+---
+title: "Editing docs"
+---
 
 The OCF's documentation (formerly known as "the wiki") is a part of the OCF
 website built with [Markdown][markdown] where we provide technical support for
